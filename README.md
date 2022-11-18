@@ -61,4 +61,4 @@ Kod źródłowy projektu jest objęty licencją MIT - zobacz [LICENSE.md](LICENS
 
 ## Grafika
 
-Podstawowa inspirowana pierwszymi wydaniami Snake oraz Blockade
+Podstawowa, inspirowana pierwszymi wydaniami Snake oraz Blockade.
