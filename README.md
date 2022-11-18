@@ -63,3 +63,4 @@ Kod źródłowy projektu jest objęty licencją MIT - zobacz [LICENSE.md](LICENS
 ## Grafika
 
 Podstawowa, inspirowana pierwszymi wydaniami Snake oraz Blockade.
+Pogląd - [Grafika](https://www.figma.com/file/bo3THxaE0xQCYICM7TtptG/CodeMonkeys---Snake?node-id=0%3A1)
