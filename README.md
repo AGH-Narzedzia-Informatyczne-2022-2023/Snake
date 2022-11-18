@@ -58,3 +58,7 @@ Używamy [SemVer](http://semver.org/) do wersjonowania. Dostępne wersje można 
 ## Licencja
 
 Kod źródłowy projektu jest objęty licencją MIT - zobacz [LICENSE.md](LICENSE.md) by dowiedzieć się więcej.
+
+## Grafika
+
+Podstawowa inspirowana pierwszymi wydaniami Snake oraz Blockade
