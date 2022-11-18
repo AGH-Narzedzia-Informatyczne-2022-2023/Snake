@@ -1,7 +1,7 @@
 # Snake
 
 Klasyczna gra typu snake tworzona w Pythonie.
-![monke](visuals/monkeansnake.jpg)
+
 <!-- Zakomentowane sekcje będzie trzeba uzupełnić gdy będziemy mieli już stworzoną templatkę projektu
 ## Getting Started
 
