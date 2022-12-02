@@ -1,6 +1,7 @@
 # Snake
 
-Klasyczna gra typu snake tworzona w Pythonie.
+Klasyczna gra typu snake tworzona w Pythonie, wzbogacona o tryb umożliwiający rozgrywkę w 2 osoby.
+
 ![monke](visuals/monkeansnake.png)
 <!-- Zakomentowane sekcje będzie trzeba uzupełnić gdy będziemy mieli już stworzoną templatkę projektu
 ## Getting Started
@@ -62,3 +63,5 @@ Kod źródłowy projektu jest objęty licencją MIT - zobacz [LICENSE.md](LICENS
 ## Grafika
 
 Podstawowa, inspirowana pierwszymi wydaniami Snake oraz Blockade.
+
+Pogląd - [Grafika](https://www.figma.com/file/bo3THxaE0xQCYICM7TtptG/CodeMonkeys---Snake?node-id=0%3A1)
