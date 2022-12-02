@@ -1,6 +1,6 @@
 import pygame
 pygame.init()
-dis=pygame.display.set_mode((1080,720))
+dis=pygame.display.set_mode((1080,1080))
 pygame.display.update()
 pygame.display.set_caption('GigaSnake')
 game_over=False
